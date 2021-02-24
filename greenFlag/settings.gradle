@@ -1,0 +1,2 @@
+rootProject.name = "greenFlag"
+include ':app'
