@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apple Music API call</string>
+    <string name="cover">Cover</string>
+    <string name="songTitle"><![CDATA[Song title & artist]]></string>
+    <string name="price">Price</string>
+    <string name="musicName">Trust Issues</string>
+    <string name="artistName">Drake</string>
+</resources>
