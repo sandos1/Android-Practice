@@ -43,6 +43,7 @@ class RecyclerAdapter(val context: Context,val hourlyWeatherList: List<HourlyWea
 
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 
+
         lateinit var imageView:ImageView
         lateinit var time:TextView
         lateinit var temperature:TextView
